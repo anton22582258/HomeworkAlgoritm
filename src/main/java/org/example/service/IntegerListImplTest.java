@@ -313,7 +313,6 @@ class IntegerListImplTest {
                 isEqualTo(out.toArray());
     }
 
-
     @Test
     void toArray() {
     }
