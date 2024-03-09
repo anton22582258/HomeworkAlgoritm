@@ -3,13 +3,13 @@ package org.example.service;
 import org.example.exception.ElementNotFoundException;
 import org.example.exception.OutOfBoundException;
 import org.example.exception.ListIsFullException;
-import org.example.service.StringList;
+
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class StringListImpl implements StringList {
+/*public class StringListImpl implements StringList {
     private String[] storage;
     int pointer = 0;
 
@@ -177,7 +177,7 @@ public class StringListImpl implements StringList {
             storage[i] = storage[i + 1];
         }
     }
-}
+}*/
 
 
 

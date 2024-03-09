@@ -7,7 +7,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class StringListImplTest {
+/*class StringListImplTest {
     private StringListImpl out = new StringListImpl(4);
 
     @BeforeEach
@@ -162,4 +162,4 @@ class StringListImplTest {
     @Test
     void toArray() {
     }
-}
+}*/
